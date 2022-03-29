@@ -1,1 +1,1 @@
-# [rsschool-cv](https://purepurplepumpkin.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://purepurplepumpkin.github.io/rsschool-cv/)
