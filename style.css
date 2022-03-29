@@ -1,0 +1,10 @@
+body {
+    background-color: #DDA0DD;
+    margin: 0;
+    padding: 0;
+}
+
+h1.intro {
+    color: #4B0082;
+    text-align: center;
+}
